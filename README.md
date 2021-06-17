@@ -1,6 +1,11 @@
 # Tech_Blog
 This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.This follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
+## Walkthrough video
+The login, signup fucntionality working on my local pc, but not working on deployed heroku app, so uploading the walkthrough video.
+
+https://drive.google.com/file/d/12PLMbnRucUynYCyvDra_1f_iPJxO8Dm_/view
+
 ## Application link on heroku
 https://hidden-bayou-74368.herokuapp.com/ 
 
