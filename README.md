@@ -2,9 +2,12 @@
 This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.This follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Application link on heroku
-n
+https://hidden-bayou-74368.herokuapp.com/ 
 
 ## Application Screenshots
+![Screenshot1](./public/Images/Screenshot1.png)
+![Screenshot2](./public/Images/Screenshot2.png)
+![Screenshot2](./public/Images/Screenshot3.png)
 
 
 
@@ -55,10 +58,13 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ```
 ## Installation
 
-'''
+```
 Add .env file to the root of the project
 DB_NAME=tech_blog_db
 DB_USER=root
 DB_PW='xxx'
 ```
 
+## Github Repo
+
+https://github.com/poly-singh/Tech_Blog 
